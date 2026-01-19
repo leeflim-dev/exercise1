@@ -1,1 +1,2 @@
-Hello from Challenge 1
+Hello from Challenge 1!
+Hello World
